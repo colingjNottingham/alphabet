@@ -11,12 +11,9 @@ I
 J
 K
 L
-<<<<<<< HEAD
 Matt Mitchell
-=======
 M
 Matt Windeler
->>>>>>> 8bdbd1390ad9a815842e1774fa503d8577f7c8f8
 N
 O
 P
